@@ -3,7 +3,8 @@
     "description": "ncryptf for PHP",
     "type": "library",
     "license": "BSD-3-Clause",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Charles R. Portwood II",
